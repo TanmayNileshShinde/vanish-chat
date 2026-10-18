@@ -1,8 +1,13 @@
-# VanishChat 
+# VanishChat 🔒
+
+<p align="left">
+  <a href="https://vanishthechat.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-vanishthechat.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/TanmayNileshShinde/vanish-chat/stargazers"><img src="https://img.shields.io/github/stars/TanmayNileshShinde/vanish-chat?style=for-the-badge&logo=github&color=ffb86c" alt="Stars" /></a>
+  <a href="https://github.com/TanmayNileshShinde/vanish-chat/network/members"><img src="https://img.shields.io/github/forks/TanmayNileshShinde/vanish-chat?style=for-the-badge&logo=github&color=8be9fd" alt="Forks" /></a>
+  <a href="./SECURITY.md"><img src="https://img.shields.io/badge/Security-Policy-2ea44f?style=for-the-badge&logo=shield" alt="Security Policy" /></a>
+</p>
 
 **VanishChat** is a minimalist, ephemeral communication protocol designed for high-speed, secure messaging. Built with React and Firebase, it features a rolling-buffer system that ensures no more than 50 messages ever exist in a room at one time, alongside a 45-second auto-decay protocol for burner rooms.
-
-- [Live Demo](https://vanishthechat.vercel.app)
 
 ---
 
