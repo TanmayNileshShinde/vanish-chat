@@ -62,4 +62,4 @@ Tanmay Nilesh Shinde
 
 - GitHub: https://github.com/TanmayNileshShinde
 
-- LinkedIn: https://www.linkedin.com/in/tanmay-shinde-9b07753bb
+- LinkedIn: https://www.linkedin.com/in/tanmaynileshshinde
